@@ -2,7 +2,7 @@
 This assignment aims to provide hands-on experience in Dockerizing Flask applications, first individually and then using Docker Compose for managing multiple applications.
 
 Setting Up and Dockerizing a Flask App:
-1. Create app.py, dockerfile and requirements.txt
+1. In folder Part1 contains app.py, dockerfile and requirements.txt
 2. Created a simple addition flask app on google shell
 3. Built my docker container using docker build -t shaikh .
 4. Ran my app via docker docker run -p 8005:5000 shaikh on port 8005
